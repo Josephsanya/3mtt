@@ -1,4 +1,4 @@
-# My Personal Project Page 💻
+# My Personal Project Page using only HTML 💻
 
 #### This project is based on my 1st mini project from 3mtt darey.io
 
